@@ -1,5 +1,78 @@
 {
-	"autumn":{
-		"https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/autumn/autumn-leaf1.png"
-	}
+  "autumn": [
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/autumn/1.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/autumn/2.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/autumn/3.png"
+  ],
+  "christmas": [
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/christmas/1.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/christmas/2.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/christmas/3.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/christmas/4.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/christmas/5.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/christmas/6.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/christmas/7.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/christmas/8.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/christmas/9.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/christmas/10.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/christmas/11.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/christmas/12.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/christmas/13.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/christmas/14.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/christmas/15.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/christmas/16.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/christmas/17.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/christmas/18.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/christmas/19.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/christmas/20.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/christmas/21.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/christmas/22.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/christmas/23.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/christmas/24.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/christmas/25.png"
+
+  ],
+  "halloween": [
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/halloween/1.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/halloween/2.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/halloween/3.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/halloween/4.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/halloween/5.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/halloween/6.png"
+  ],
+  "newyear": [
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/newyear/1.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/newyear/2.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/newyear/3.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/newyear/4.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/newyear/5.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/newyear/6.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/newyear/7.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/newyear/8.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/newyear/9.png"
+  ],
+  "rain": [
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/rain/1.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/rain/2.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/rain/3.png"
+  ],
+  "spring": [
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/spring/1.png"
+  ],
+  "summer": [
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/summer/1.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/summer/2.png"
+  ],
+  "thanksgiving": [
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/thanksgiving/1.png"
+  ],
+  "valentine": [
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/valentine/1.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/valentine/2.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/valentine/3.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/valentine/4.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/valentine/5.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/valentine/6.png",
+    "https://raw.githubusercontent.com/helpercode0/jsdeploy/main/img/snow-effect/valentine/7.png"
+  ]
 }
